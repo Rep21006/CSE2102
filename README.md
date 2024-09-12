@@ -1,4 +1,5 @@
 # CSE2102
+Lab 1:
 Hybrid Car MPGe and MPG calculator
 
 This project calculates the The MPG when in fully gas mode, the MPGe when in fully electric mode, and the average MPG when in half-gas/half-electric hybrid mode. Thi also contains the test for each of those functions.
