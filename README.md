@@ -1,4 +1,5 @@
-# CSE2102
+# CSE2102 lab 1
+
 Lab 1:
 Hybrid Car MPGe and MPG calculator
 
